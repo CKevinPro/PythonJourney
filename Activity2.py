@@ -1,7 +1,3 @@
-# CC101
-# Estinopo, Chard Kevin H.
-# BSIT - 1A
-
 # My Favorite Online Game or Movie
 
 title = "Dr. Stone"
@@ -17,3 +13,4 @@ print("The story takes place in", setting + ".")
 print("Across Seasons", seasons + ", Senku works to rebuild civilization using scientific knowledge.")
 print("One of my favorite scenes is", favorite_scene + ".")
 print("I enjoy watching it", reason + ".")
+
